@@ -1,5 +1,5 @@
 {
     "version": 1,
-    "locked": false,
-    "reason": "WhisperBridge is currently enabled."
+    "locked": true,
+    "reason": "Testing Security Measure - Currently Disabled"
 }
