@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "locked": false,
+    "locked": true,
     "reason": "",
     "message": {
         "enabled": true,
