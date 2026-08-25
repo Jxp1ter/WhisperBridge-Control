@@ -4,8 +4,8 @@
     "reason": "WhisperBridge has been disabled by the developer.",
     "message": {
         "enabled": true,
-        "id": 1,
-        "text": "Test",
+        "id": 2,
+        "text": "Test message 123",
         "duration": 8.0
     }
 }
