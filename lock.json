@@ -3,9 +3,9 @@
     "locked": false,
     "reason": "",
     "message": {
-        "enabled": false,
-        "id": 4,
-        "text": "",
-        "duration": 8
+        "enabled": true,
+        "id": 5,
+        "text": "Hi how are you",
+        "duration": 8.0
     }
 }
