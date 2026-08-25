@@ -4,8 +4,8 @@
     "reason": "",
     "message": {
         "enabled": true,
-        "id": 7,
-        "text": "hi",
+        "id": 8,
+        "text": "test message",
         "duration": 8.0
     }
 }
