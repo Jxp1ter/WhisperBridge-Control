@@ -3,9 +3,9 @@
     "locked": true,
     "reason": "WhisperBridge has been disabled by the developer.",
     "message": {
-        "enabled": true,
+        "enabled": false,
         "id": 12,
-        "text": "test message",
-        "duration": 8.0
+        "text": "",
+        "duration": 8
     }
 }
