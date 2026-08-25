@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "locked": true,
-    "reason": "WhisperBridge has been disabled by the developer.",
+    "locked": false,
+    "reason": "",
     "message": {
         "enabled": true,
         "id": 6,
